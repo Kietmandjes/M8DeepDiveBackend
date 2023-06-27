@@ -1,0 +1,14 @@
+Technisch ontwerp:
+Thema's: customify, versie 0.4.2
+
+Plugins: SocialFeed, versie 1.2.9
+Beaver Builder Plugin(Lite Version), versie 2.7.0.5
+Customizer Export/Import, versie 0.9.6
+Disable Gutenberg, versie 2.9
+Genarate Child Theme, versie 1.9
+UpdraftPlus - Backpup/Restore, versie 1.23.6
+WooCommerce, versie 7.8.0
+WooCommerce Payments, versie 6.0.0
+Wordfence Security, versie 7.9.3
+
+
